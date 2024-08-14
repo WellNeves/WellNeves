@@ -2,7 +2,10 @@ aopa meu parceiro, esse git hub é meu novo ambiente de aprendizado, em breve vo
 
 sou estudante de analise e desnevolvimento de sistemas na fatec indaiatuba e trabalho como estagiario na gigante azul EMS na area de efetividade e produtividade com foco em dados
 
+##www.linkedin.com/in/wellington-neves-357532206
 
+
+professor, eu colocaria os links de redes sociais mas eu n tenho nenhuma, só o wpp haha
 <!--
 **WellNeves/WellNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
